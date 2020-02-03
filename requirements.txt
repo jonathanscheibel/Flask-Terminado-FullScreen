@@ -1,0 +1,12 @@
+Click==7.0
+Flask==1.1.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+ptyprocess==0.6.0
+terminado==0.8.3
+tornado==6.0.3
+tornado-xstatic==0.2
+Werkzeug==0.16.1
+XStatic==1.0.2
+XStatic-term.js==0.0.7.0
