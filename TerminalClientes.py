@@ -61,6 +61,6 @@ def home():
 
 if __name__ == '__main__':
     terminal = Terminal(app)
-    terminal.add_terminal('/cmd', ['bash', '/home/jonathan/Desktop/script.sh'])
+    terminal.add_terminal('/cmd', ['bash', 'script.sh'])
     terminal.run()
 
